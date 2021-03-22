@@ -1,4 +1,4 @@
-The efi folder of my project witch consists of installing osx 10.13 high sierra on my Lenovo thinkpad T420. 
+The EFI folder of my project witch consists of installing mac os 10.13 high sierra on my Lenovo thinkpad T420. 
 
 I used clover and not opencore for compatibility reasons.
 
