@@ -6,7 +6,7 @@ For the install you will nead a usb flash drive with al least 8GB, a copy of the
 
 1) Make a bootable mac os usb. You can follow this guide: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/ witch will tell you how to make an installer on windows, mac and linux. 
 
-2) Add the EFI folder. In the guide when they tell you to add the dofaul EFI folder for opencore you simply ignorit and add my EFI folder.
+2) Add the EFI folder. In the guide when they tell you to add the default EFI folder for opencore, you simply ignor it and add my EFI folder.
 
 3) Boot and install the os.
 
