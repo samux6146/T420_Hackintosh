@@ -2,7 +2,7 @@ The EFI folder of my project witch consists of installing mac os 10.13 high sier
 
 I used clover and not opencore for compatibility reasons.
 
-For the install you will nead a usb flash drive with al least 8GB, a copy of the high sierra installer or the high syerra recovery image.
+For the install you will nead a usb flash drive with al least 8GB, a copy of the high sierra installer or the high sierra recovery image.
 
 1) Make a bootable mac os usb. You can follow this guide: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/ witch will tell you how to make an installer on windows, mac and linux. 
 
